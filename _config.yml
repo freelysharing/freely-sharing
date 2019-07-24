@@ -19,8 +19,8 @@ description: >- # this means to ignore newlines until "baseurl:"
     Once others taught me how to live this life.
     Without all of those, there would not be this guy.
     Now sharing here.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "freely-sharing" # the subpath of your site, e.g. /blog
+url: "freelysharing.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username:  freelysharing
 
