@@ -43,7 +43,7 @@ ___
 ### 从官网下载安装包
 现在的新电脑都是 _64位_ 的处理器，选择官网下载页面的 `x86-64 executable installer` ，这会下载 python-3.7.3-amd64.exe 安装包 (这个是常见的提供安装界面的安装包)。<https://www.python.org/downloads/windows/>
 
-![download python]({{site.url}}/{{site.baseurl}}/assets/images/setup_python_windows_with_vscode/Python-Windows-Download.jpg)
+![download python]({{site.url}}/assets/images/setup_python_windows_with_vscode/Python-Windows-Download.jpg)
 
 ___
 ### 选择安装选项
