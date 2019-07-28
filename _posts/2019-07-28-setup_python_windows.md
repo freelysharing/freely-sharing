@@ -6,7 +6,7 @@ categories: jekyll update
 tags: [post_url]
 ---
 本文介绍在 Windows10 系统上安装 64位 Python 过程。配置 python编程环境时，推荐使用 VS Code 作为写 python 程序的编辑器，见：
-[Windows10 安装VS Code编辑器, 配置 Python 编程环境]({% post_url 2019-07-28-install_vscode_for_writing_python %})
+[Windows10 安装VS Code编辑器, 配置 Python 编程环境](/{{ site.baseurl }}{% post_url 2019-07-28-install_vscode_for_writing_python %})
 
 - [Python 简介](#python-简介)
   - [Python 版本](#python-版本)
@@ -43,13 +43,13 @@ ___
 ### 从官网下载安装包
 现在的新电脑都是 _64位_ 的处理器，选择官网下载页面的 `x86-64 executable installer` ，这会下载 python-3.7.3-amd64.exe 安装包 (这个是常见的提供安装界面的安装包)。<https://www.python.org/downloads/windows/>
 
-![download python]({{site.url}}/assets/images/setup_python_windows_with_vscode/Python-Windows-Download.jpg)
+![download python](/{{site.baseurl}}/assets/images/setup_python_windows_with_vscode/Python-Windows-Download.jpg)
 
 ___
 ### 选择安装选项
 
 1. 把 Python 加入到环境变量 PATH 中，这样可以从命令行工具 (cmd or powershell) 中直接访问
-![add to PATH]({{site.baseurl}}/assets/images/setup_python_windows_with_vscode/installpython-addpath.jpg)
+![add to PATH](/{{site.baseurl}}/assets/images/setup_python_windows_with_vscode/installpython-addpath.jpg)
 2. Install Now
 
 出于让教程简单，Customize installation 中的选项就不介绍了。但是，不建议把 Python 安装到自定义的位置，这可能会造成麻烦。
