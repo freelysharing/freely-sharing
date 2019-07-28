@@ -72,7 +72,7 @@ Windows10 上可以使用 Powershell 或者 cmd 命令行工具来测试是否�
 print("hello, world ^_^")
 ```
 注意在 python 解释器中没有语法高亮。输入 `exit()` 推出 python 解释器。
-![hello world (powershell)](/assets/images/setup_python_windows_with_vscode/testpython-powershell-hello.jpg)
+![hello world (powershell)](/{{site.baseurl}}/assets/images/setup_python_windows_with_vscode/testpython-powershell-hello.jpg)
 
 ## 配置 pypi (python package index) 源 (推荐)
 python 的功能十分强大，一部分得益于它丰富的开源软件包。pypi(python package index)上有许多开源的包，提供科学计算，写网络爬虫等不同方面的功能。
@@ -91,7 +91,7 @@ pip install --upgrade --user -i https://pypi.tuna.tsinghua.edu.cn/simple pip
 pip config set global.index-url https://pypi.tuna.tsinghua.edu.cn/simple
 ```
 
-![set up pip](/assets/images/setup_python_windows_with_vscode/setup-pip.jpg)
+![set up pip](/{{site.baseurl}}//assets/images/setup_python_windows_with_vscode/setup-pip.jpg)
 
 ## 更多阅读
 ### powershell 介绍
