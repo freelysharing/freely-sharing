@@ -48,7 +48,7 @@ ___
 ___
 ### 选择安装选项
 
-1. 把 Python 加入到环境变量 PATH 中，这样可以从命令行工具 (cmd or powershell) 中直接访问
+1. 把 Python 加入到环境变量 PATH 中，这样可以从命令行工具 (cmd or powershell) 中直接访问 (如图，选择添加 Python 到 PATH)
 ![add to PATH](/{{site.baseurl}}/assets/images/setup_python_windows_with_vscode/installpython-addpath.jpg)
 2. Install Now
 
